@@ -1,0 +1,26 @@
+[
+    {   
+        "name":"Openweather Ltd.",
+        "house":"17th floor",
+        "city":"1 Ropemaker Street",
+        "town":"City Point",
+        "state":"London",
+        "country":"United Kingdom"
+    },
+    {
+        "name":"OpenWeatherMap, Inc.",
+        "house":"10th floor",
+        "city":"1979 Marcus Avenue",
+        "town":"Suite 210",
+        "state":"Lake Success, NY",
+        "country":"11042"
+    },
+    {
+        "name":"OpenWeatherMap SIA",
+        "house":"Registration number 40103961603",
+        "city":"Matīsa iela 79, Rīga,",
+        "town":"LV-1009",
+        "state":"Latvia",
+        "country":"VAT LV40103961603"
+    }
+]   
